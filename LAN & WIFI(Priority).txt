@@ -1,0 +1,11 @@
+Run this script from here c:\Source\rbr\rbr.core\orchestrator\RBR_TEST_NEW\tests\connectivity_wifi\Invoke-SmartWifiAction.ps1
+ 
+Wi-Fi Priority -->
+----
+.\Invoke-SmartWifiAction.ps1 -Action Connect -SetWifiPriority
+.\Invoke-SmartWifiAction.ps1 -Action ConfirmWifiPriority
+----
+ 
+LAN Back -->
+.\Invoke-SmartWifiAction.ps1 -Action RevertWifiPriority
+.\Invoke-SmartWifiAction.ps1 -Action Disconnect -RevertWifiPriority

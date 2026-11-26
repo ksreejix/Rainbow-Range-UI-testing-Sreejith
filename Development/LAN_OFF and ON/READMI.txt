@@ -1,0 +1,8 @@
+Run this in Administrator PowerShell from C:\LAN:
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\toggle-ethernet.ps1
+
+The script cycles the Ethernet adapter: connected for 60 seconds, then disconnected for 10 seconds. Press Ctrl+C to stop; it will attempt to re-enable Ethernet before exiting.
+
+--> powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\toggle-ethernet.ps1
+

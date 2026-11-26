@@ -1,0 +1,4 @@
+1) Run the job using the CMD - (".\Invoke-RBRJob.ps1 -Jobs JOBS_FUNC_VIDEOPLAYBACK_REBOOT -PreTest")
+ 
+replace the job name as provided by Chandan.
+

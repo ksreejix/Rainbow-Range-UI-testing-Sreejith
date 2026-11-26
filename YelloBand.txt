@@ -1,0 +1,2 @@
+Press F2 for BIOS->Intel advance menu->System agent confi(SA)->MIPI CAMERA Settings->disblae all
+2)PCH IO Confug->HD Audio config->HD AUDIO->Disabled

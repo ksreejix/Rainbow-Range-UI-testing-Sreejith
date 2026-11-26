@@ -1,0 +1,9 @@
+RBR@Intel%25
+
+
+Use this for connecting to wifi PS C:\Projects\RBR_TEST_NEW> .\tests\Connectivity\Invoke-NetworkSwitchAction.ps1 -Action SwitchToWifi
+ 
+
+cd C:\projects\RBR_TEST_NEW
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
+.\tests\Connectivity\Invoke-NetworkSwitchAction.ps1 -Action SwitchToWifi

@@ -1,0 +1,5 @@
+& C:\projects\RBR_TEST_NEW\Pwrtest\pwrtest_hibernate.ps1 -Cycles 1 -DelaySec 5 -SleepSec 1800
+ 
+--------------------------------------------------------------------------------------------------------------
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "C:\Projects\RBR_TEST_NEW\Pwrtest\pwrtest_hibernate.ps1" -Cycles 1 -DelaySec 5 -SleepSec 930

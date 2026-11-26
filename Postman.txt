@@ -1,0 +1,23 @@
+https://obx0039-u.gar.corp.intel.com/actions
+
+Restart 
+
+{
+  "name": "recover_system",
+  "params": {}
+}
+
+
+OFF
+
+{
+  "name": "perform_g3",
+  "params": {}
+}
+
+ON
+
+{
+  "name": "perform_platform_power_on",
+  "params": {}
+}
